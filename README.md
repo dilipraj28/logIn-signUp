@@ -3,7 +3,7 @@
 ## Check Out the Webpage
 click here 👇
 
-#
+https://rgstform.netlify.app/index.html
 
 ## 🛠 Technologies Used
 HTML, CSS and JavaScript
