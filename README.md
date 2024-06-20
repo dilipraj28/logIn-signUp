@@ -10,5 +10,5 @@ HTML, CSS and JavaScript
 
 ## Screenshots
 
-![App Screenshot](https://github.com/dilipraj28/Recipe-webSite/blob/master/screenshot/Screenshot.png)
+![App Screenshot]([https://github.com/dilipraj28/Recipe-webSite/blob/master/screenshot/Screenshot.png](https://github.com/dilipraj28/logIn-signUp/blob/main/assets/Screenshot%202024-06-20%20203013.png))
 ## Thankyou, hope you enjoy it !
