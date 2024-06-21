@@ -92,9 +92,9 @@ document.getElementById("contactForm").addEventListener("submit", submitForm);
 function submitForm(e) {
     e.preventDefault();
 
-    var name = getElementVal("name");
-    var emailid = getElementVal("emailid");
-    var msgContent = getElementVal("msgContent");
+    var name = getElementVal("fName");
+    var emailid = getElementVal("rEmail");
+    var msgContent = getElementVal("rPassword");
 
     saveMessages(name, emailid, msgContent);
 
